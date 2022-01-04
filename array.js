@@ -17,7 +17,7 @@ console.log(cars.push("suzuki"))
 
 console.log(cars.shift())
 
-console.log(cars)
+console.log("car_name:", cars)
 
 
 
